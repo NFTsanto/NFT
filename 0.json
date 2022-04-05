@@ -1,0 +1,43 @@
+{
+  "name": "JoeBgood #1",
+  "description": "Test",
+  "image": "https://raw.githubusercontent.com/NFTsanto/NFT/main/0.png",
+  "dna": "e4b1fb7ff11f0bc20f0f188b6f5be8cb45f93ddd",
+  "edition": 1,
+  "date": 1643633033230,
+  "attributes": [
+    {
+      "trait_type": "Sfondo",
+      "value": "BK4"
+    },
+    {
+      "trait_type": "Personaggio",
+      "value": "Joe"
+    },
+    {
+      "trait_type": "Giacca",
+      "value": "G6"
+    },
+    {
+      "trait_type": "Colletto",
+      "value": "Coll6"
+    },
+    {
+      "trait_type": "Cravatta",
+      "value": "CV9"
+    },
+    {
+      "trait_type": "AccTesta",
+      "value": "AccTesta"
+    },
+    {
+      "trait_type": "AccOcchi",
+      "value": "Acc4"
+    },
+    {
+      "trait_type": "Bocca",
+      "value": "Bocca8"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
